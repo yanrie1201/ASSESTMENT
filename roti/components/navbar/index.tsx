@@ -38,7 +38,7 @@ const Navbar = ({
               <Link href="/">
                 <a>
                   <div className="logo" style={{ filter: setLogoFilter }}>
-                    <Logo width="300vw" height="85vh" />
+                    <Logo width="200vw" height="200vh" />
                   </div>
                 </a>
               </Link>

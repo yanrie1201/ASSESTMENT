@@ -1,4 +1,4 @@
-import logo from '../../public/SIRCLO.png'
+import logo from '../../public/JD360.png'
 import Image from 'next/image'
 
 interface LogoProps {

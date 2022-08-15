@@ -34,8 +34,9 @@
   transition: all 0.15s;
   color: #1f96cc;
 }
-.topTracksTitle {
-  padding-top: 50px;
+.dashboardTitle,
+.formTitle {
+  padding-top: 30px;
   text-align: center;
   font-size: 32px;
   font-weight: 700;
@@ -43,7 +44,7 @@
   color: var(--black);
   margin-bottom: 10px;
 }
-.topTracksTitle > span {
-  padding-bottom: 10px;
-  border-bottom: 3px solid var(--black);
+
+.dashboardCard {
+  padding: 50px 20px;
 }
